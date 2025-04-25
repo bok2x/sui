@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["FieldCount"],"macro":["sql"],"mod":["cluster","ingestion","metrics","pipeline","task"],"struct":["Indexer","IndexerArgs"],"trait":["FieldCount"],"type":["Result"]};

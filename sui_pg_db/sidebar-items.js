@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MIGRATIONS"],"fn":["reset_database"],"mod":["schema","store","temp"],"struct":["Connection","Db","DbArgs"]};
